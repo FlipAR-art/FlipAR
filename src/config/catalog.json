@@ -1,0 +1,64 @@
+[
+  {
+    "name": "SkyBox",
+    "url": "/catalog/skybox"
+  },
+  {
+    "name": "Light",
+    "url": "/catalog/light"
+  },
+  {
+    "name": "Object",
+    "url": "/catalog/object"
+  },
+  {
+    "name": "Terrain",
+    "url": "/catalog/terrain"
+  },
+  {
+    "name": "Camera",
+    "url": "/catalog/camera"
+  },
+  {
+    "name": "Sound",
+    "url": "/catalog/sound"
+  },
+  {
+    "name": "Texture",
+    "url": "/catalog/texture"
+  },
+  {
+    "name": "Elements",
+    "url": "/catalog/elements",
+    "items": [
+      {
+        "name": "Fire",
+        "url": "/catalog/elements/fire"
+      },
+      {
+        "name": "Water",
+        "url": "/catalog/elements/water"
+      },
+      {
+        "name": "Rain",
+        "url": "/catalog/elements/rain"
+      },
+      {
+        "name": "Snow",
+        "url": "/catalog/elements/snow"
+      },
+      {
+        "name": "Wind",
+        "url": "/catalog/elements/wind"
+      },
+      {
+        "name": "Particle",
+        "url": "/catalog/elements/particle"
+      }
+    ]
+  },
+  {
+    "name": "Postprocessing",
+    "url": "/catalog/postprocessing"
+  }
+]
