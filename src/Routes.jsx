@@ -30,6 +30,7 @@ const Triplex = loadable(() => import('./page/Triplex'));
 // const AudioPlayer = loadable(() => import('./audio/AudioPlayer'));
 // const Catalog = loadable(() => import('./page/Catalog'));
 // const Category = loadable(() => import('./page/Category'));
+
 ////////////////
 // Routes
 ////////////////
