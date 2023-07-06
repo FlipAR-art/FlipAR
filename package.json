@@ -11,13 +11,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@artcom/react-three-arjs": "^0.5.2",
     "@emotion/cache": "^11.11.0",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@loadable/component": "^5.15.3",
     "@react-three/cannon": "^6.5.2",
-    "@react-three/drei": "^9.78.0",
+    "@react-three/drei": "^9.78.1",
     "@react-three/fiber": "^8.13.4",
     "@react-three/flex": "^1.0.1",
     "@react-three/postprocessing": "^2.14.13",
@@ -45,7 +44,7 @@
     "three-custom-shader-material": "^5.3.8",
     "three-noise": "^1.1.2",
     "three-particle-fire": "^0.1.0",
-    "three-stdlib": "^2.23.10",
+    "three-stdlib": "^2.23.12",
     "threejs-meshline": "^2.0.12",
     "timeline-composer": "^0.1.7",
     "unplugin-fonts": "^1.0.3",
@@ -60,6 +59,6 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.5",
-    "vite": "^4.3.9"
+    "vite": "^4.4.1"
   }
 }
