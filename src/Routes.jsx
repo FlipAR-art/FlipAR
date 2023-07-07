@@ -12,7 +12,7 @@ import {
 const Home = loadable(() => import('./page/Home'));
 const Editor = loadable(() => import('./page/Editor'));
 const Player = loadable(() => import('./page/Player'));
-const Triplex = loadable(() => import('./page/Triplex'));
+const Phoenix = loadable(() => import('./fileLoader/GLTF'));
 
 // const FBX = loadable(() => import('./page/fileLoader/FBX'));
 // const OBJ = loadable(() => import('./page/fileLoader/OBJ'));
@@ -41,7 +41,7 @@ const MyRoutes = () => {
           <Route exact path="/" element={<Suspense fallback={null}><Home /></Suspense>} />
           <Route exact path="/editor" element={<Suspense fallback={null}><Editor /></Suspense>} />  
           <Route exact path="/player" element={<Suspense fallback={null}><Player /></Suspense>} />
-          <Route exact path="/triplex" element={<Suspense fallback={null}><Triplex /></Suspense>} />
+          <Route exact path="/phoenix" element={<Suspense fallback={null}><Phoenix /></Suspense>} />          
         </Routes>
     )
 }

@@ -41,6 +41,9 @@ const Home = () => {
           <Link 
             style={css.link}
             to="/player">Player</Link>
+          <Link 
+            style={css.link}
+            to="/phoenix">Phoenix</Link>
         </div>
     </div>
   )
